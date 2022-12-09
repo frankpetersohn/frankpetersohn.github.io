@@ -1,10 +1,10 @@
 # frankpetersohn.github.io
 
-#Testseite für einen API-Aufruf
+# Testseite für einen API-Aufruf
 
 Endpunkte: 
 - berufe.json
--- id
--- berufsbezeichnung
+- id
+- berufsbezeichnung
 - lernfelder.json
 -- 
