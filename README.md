@@ -8,10 +8,14 @@ Endpunkte:
 - berufe.json
   - "id":
   - "berufsbezeichnung":
+
 - lernfelder.json
   - "id": 
   - "kurzbezeichnung":
   - "bezeichung": 
   - "zeitrichtwert":
   - "ausbildungsjahr": 
+
 - lernfeldzuordnung
+  - "beruf":
+  - "lernfeld":
