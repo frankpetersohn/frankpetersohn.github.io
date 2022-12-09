@@ -6,7 +6,12 @@ url: https://frankpetersohn.github.io/[endpunkt].json
 
 Endpunkte: 
 - berufe.json
-  - id
-  - berufsbezeichnung
+  - "id":
+  - "berufsbezeichnung":
 - lernfelder.json
+  - "id": 
+  - "kurzbezeichnung":
+  - "bezeichung": 
+  - "zeitrichtwert":
+  - "ausbildungsjahr": 
 - lernfeldzuordnung
