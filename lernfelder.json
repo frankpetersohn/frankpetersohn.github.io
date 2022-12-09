@@ -1,0 +1,177 @@
+{
+	
+	"Lernfeld":
+	[
+		{
+			"id": 1,
+			"kurzbezeichnung": "1",
+			"bezeichung": "Das Unternehmen und die eigene Rolle im Betrieb",
+			"zeitrichtwert": 40,
+			"ausbildungsjahr": 1
+		},
+		{
+			"id": 2,
+			"kurzbezeichnung": "2",
+			"bezeichung": "Arbeitsplätze nach Kundenwunsch ausstatten",
+			"zeitrichtwert": 80,
+			"ausbildungsjahr": 1
+		},
+		{
+			"id": 3,
+			"kurzbezeichnung": "3",
+			"bezeichung": "Clients in Netzwerke einbinden",
+			"zeitrichtwert": 80,
+			"ausbildungsjahr": 1
+		},
+		{
+			"id": 4,
+			"kurzbezeichnung": "4",
+			"bezeichung": "Schutzbedarfsanalyse im eigenen Arbeitsbereich",
+			"zeitrichtwert": 40,
+			"ausbildungsjahr": 1
+		},
+		{
+			"id": 5,
+			"kurzbezeichnung": "5",
+			"bezeichung": "Software zur Verwaltung von Daten anpassen",
+			"zeitrichtwert": 80,
+			"ausbildungsjahr": 1
+		},
+		{
+			"id": 6,
+			"kurzbezeichnung": "6",
+			"bezeichung": "Serviceanfragen bearbeiten",
+			"zeitrichtwert": 40,
+			"ausbildungsjahr": 1
+		},
+		{
+			"id": 7,
+			"kurzbezeichnung": "7",
+			"bezeichung": "Cyber-physische Systeme ergänzen",
+			"zeitrichtwert": 80,
+			"ausbildungsjahr": 2
+		},
+		{
+			"id": 8,
+			"kurzbezeichnung": "8",
+			"bezeichung": "Daten systemübergreifend bereitstellen",
+			"zeitrichtwert": 80,
+			"ausbildungsjahr": 2
+		},
+		{
+			"id": 9,
+			"kurzbezeichnung": "9",
+			"bezeichung": "Netzwerke und Dienste bereitstellen",
+			"zeitrichtwert": 80,
+			"ausbildungsjahr": 2
+		},
+		{
+			"id": 10,
+			"kurzbezeichnung": "10a",
+			"bezeichung": "Benutzerschnittstellen gestalten und entwickeln",
+			"zeitrichtwert": 80,
+			"ausbildungsjahr": 3
+		},
+		{
+			"id": 11,
+			"kurzbezeichnung": "11a",
+			"bezeichung": "Funktionalität in Anwendungen realisieren",
+			"zeitrichtwert": 80,
+			"ausbildungsjahr": 3
+		},
+		{
+			"id": 12,
+			"kurzbezeichnung": "12a",
+			"bezeichung": "Kundenspezifische Anwendungsentwicklung durchführen",
+			"zeitrichtwert": 120,
+			"ausbildungsjahr": 3
+		},
+		{
+			"id": 13,
+			"kurzbezeichnung": "10b",
+			"bezeichung": "Serverdienste bereitstellen und Administrationsaufgaben automatisieren",
+			"zeitrichtwert": 80,
+			"ausbildungsjahr": 3
+		},
+		{
+			"id": 14,
+			"kurzbezeichnung": "11b",
+			"bezeichung": "Betrieb und Sicherheit vernetzter Systeme gewährleisten",
+			"zeitrichtwert": 80,
+			"ausbildungsjahr": 3
+		},
+		{
+			"id": 15,
+			"kurzbezeichnung": "12b",
+			"bezeichung": "Kundenspezifische Systemintegration durchführen",
+			"zeitrichtwert": 120,
+			"ausbildungsjahr": 3
+		},
+		{
+			"id": 16,
+			"kurzbezeichnung": "10c",
+			"bezeichung": "Werkzeuge des maschinellen Lernens einsetzen",
+			"zeitrichtwert": 80,
+			"ausbildungsjahr": 3
+		},
+		{
+			"id": 17,
+			"kurzbezeichnung": "11c",
+			"bezeichung": "Prozesse analysieren und gestalten",
+			"zeitrichtwert": 80,
+			"ausbildungsjahr": 3
+		},
+		{
+			"id": 18,
+			"kurzbezeichnung": "12c",
+			"bezeichung": "Kundenspezifische Prozess- und Datenanalyse durchführen",
+			"zeitrichtwert": 120,
+			"ausbildungsjahr": 3
+		},
+		{
+			"id": 19,
+			"kurzbezeichnung": "10d",
+			"bezeichung": "Cyber-physische Systeme entwickeln",
+			"zeitrichtwert": 80,
+			"ausbildungsjahr": 3
+		},
+		{
+			"id": 20,
+			"kurzbezeichnung": "11d",
+			"bezeichung": "Betrieb und Sicherheit vernetzter Systeme gewährleisten",
+			"zeitrichtwert": 80,
+			"ausbildungsjahr": 3
+		},
+		{
+			"id": 21,
+			"kurzbezeichnung": "12d",
+			"bezeichung": "Kundenspezifisches cyber-physisches System optimieren",
+			"zeitrichtwert": 120,
+			"ausbildungsjahr": 3
+		},
+		{
+			"id": 22,
+			"kurzbezeichnung": "10(SE)",
+			"bezeichung": "Energieversorgung bereitstellen und die Betriebssicherheit",
+			"zeitrichtwert": 80,
+			"ausbildungsjahr": 3
+		},
+		{
+			"id": 23,
+			"kurzbezeichnung": "11(SE)",
+			"bezeichung": "Betrieb und Sicherheit vernetzter Systeme gewährleisten",
+			"zeitrichtwert": 80,
+			"ausbildungsjahr": 3
+		},
+		{
+			"id": 24,
+			"kurzbezeichnung": "12(SE)",
+			"bezeichung": "Instandhaltung planen und durchführen",
+			"zeitrichtwert": 80,
+			"ausbildungsjahr": 3
+		}
+	]
+ 
+  
+  
+}
