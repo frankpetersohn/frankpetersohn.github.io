@@ -1,0 +1,246 @@
+{
+	"table": "lernfeldzuordnung",
+	"rows":
+	[
+		{
+			"beruf": 1,
+			"lernfeld": 1
+		},
+		{
+			"beruf": 1,
+			"lernfeld": 2
+		},
+		{
+			"beruf": 1,
+			"lernfeld": 3
+		},
+		{
+			"beruf": 1,
+			"lernfeld": 4
+		},
+		{
+			"beruf": 1,
+			"lernfeld": 5
+		},
+		{
+			"beruf": 1,
+			"lernfeld": 6
+		},
+		{
+			"beruf": 1,
+			"lernfeld": 7
+		},
+		{
+			"beruf": 1,
+			"lernfeld": 8
+		},
+		{
+			"beruf": 1,
+			"lernfeld": 9
+		},
+		{
+			"beruf": 1,
+			"lernfeld": 10
+		},
+		{
+			"beruf": 1,
+			"lernfeld": 11
+		},
+		{
+			"beruf": 1,
+			"lernfeld": 12
+		},
+		{
+			"beruf": 2,
+			"lernfeld": 1
+		},
+		{
+			"beruf": 2,
+			"lernfeld": 2
+		},
+		{
+			"beruf": 2,
+			"lernfeld": 3
+		},
+		{
+			"beruf": 2,
+			"lernfeld": 4
+		},
+		{
+			"beruf": 2,
+			"lernfeld": 5
+		},
+		{
+			"beruf": 2,
+			"lernfeld": 6
+		},
+		{
+			"beruf": 2,
+			"lernfeld": 7
+		},
+		{
+			"beruf": 2,
+			"lernfeld": 8
+		},
+		{
+			"beruf": 2,
+			"lernfeld": 9
+		},
+		{
+			"beruf": 2,
+			"lernfeld": 13
+		},
+		{
+			"beruf": 2,
+			"lernfeld": 14
+		},
+		{
+			"beruf": 2,
+			"lernfeld": 15
+		},
+		{
+			"beruf": 3,
+			"lernfeld": 1
+		},
+		{
+			"beruf": 3,
+			"lernfeld": 2
+		},
+		{
+			"beruf": 3,
+			"lernfeld": 3
+		},
+		{
+			"beruf": 3,
+			"lernfeld": 4
+		},
+		{
+			"beruf": 3,
+			"lernfeld": 5
+		},
+		{
+			"beruf": 3,
+			"lernfeld": 6
+		},
+		{
+			"beruf": 3,
+			"lernfeld": 7
+		},
+		{
+			"beruf": 3,
+			"lernfeld": 8
+		},
+		{
+			"beruf": 3,
+			"lernfeld": 9
+		},
+		{
+			"beruf": 3,
+			"lernfeld": 16
+		},
+		{
+			"beruf": 3,
+			"lernfeld": 17
+		},
+		{
+			"beruf": 3,
+			"lernfeld": 18
+		},
+		{
+			"beruf": 4,
+			"lernfeld": 1
+		},
+		{
+			"beruf": 4,
+			"lernfeld": 2
+		},
+		{
+			"beruf": 4,
+			"lernfeld": 3
+		},
+		{
+			"beruf": 4,
+			"lernfeld": 4
+		},
+		{
+			"beruf": 4,
+			"lernfeld": 5
+		},
+		{
+			"beruf": 4,
+			"lernfeld": 6
+		},
+		{
+			"beruf": 4,
+			"lernfeld": 7
+		},
+		{
+			"beruf": 4,
+			"lernfeld": 8
+		},
+		{
+			"beruf": 4,
+			"lernfeld": 9
+		},
+		{
+			"beruf": 4,
+			"lernfeld": 19
+		},
+		{
+			"beruf": 4,
+			"lernfeld": 20
+		},
+		{
+			"beruf": 4,
+			"lernfeld": 21
+		},
+		{
+			"beruf": 5,
+			"lernfeld": 1
+		},
+		{
+			"beruf": 5,
+			"lernfeld": 2
+		},
+		{
+			"beruf": 5,
+			"lernfeld": 3
+		},
+		{
+			"beruf": 5,
+			"lernfeld": 4
+		},
+		{
+			"beruf": 5,
+			"lernfeld": 5
+		},
+		{
+			"beruf": 5,
+			"lernfeld": 6
+		},
+		{
+			"beruf": 5,
+			"lernfeld": 7
+		},
+		{
+			"beruf": 5,
+			"lernfeld": 8
+		},
+		{
+			"beruf": 5,
+			"lernfeld": 9
+		},
+		{
+			"beruf": 5,
+			"lernfeld": 22
+		},
+		{
+			"beruf": 5,
+			"lernfeld": 23
+		},
+		{
+			"beruf": 5,
+			"lernfeld": 24
+		}
+	]
+}
