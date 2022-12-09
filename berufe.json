@@ -1,0 +1,28 @@
+{
+	
+	"Ausbildungsberuf":
+	[
+		{
+			"id": 1,
+			"berufsbezeichnung": "Fachinformatiker/-innen Fachrichtung Anwendungsentwicklung"
+		},
+		{
+			"id": 2,
+			"berufsbezeichnung": "Fachinformatiker/-innen Fachrichtung Systemintegration"
+		},
+		{
+			"id": 3,
+			"berufsbezeichnung": "Fachinformatiker/-innen Fachrichtung Daten- und Prozessanalyse"
+		},
+		{
+			"id": 4,
+			"berufsbezeichnung": "Fachinformatiker/-innen Fachrichtung Digitale Vernetzung"
+		},
+		{
+			"id": 5,
+			"berufsbezeichnung": "IT-System-Elektroniker und IT-System-Elektronikerin"
+		}
+	]
+  
+  
+}
